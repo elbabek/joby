@@ -1,0 +1,111 @@
+body{
+	font-family:  'Raleway', sans-serif;
+}
+
+.bg-gren{
+	background-color: #228B22;
+}
+
+.nav-link{
+	font-size: 13px;
+	font-weight: 600;
+	text-indent: 1.5em;
+	text-align: justify;
+
+}
+
+.carousel-indicators [data-bs-target]{
+	width: 12px;
+	height: 12px;
+	border-radius: 50%;
+	background-color: transparent;
+	border: 2px solid #fff;
+	opacity: 1;
+}
+
+.carousel-indicators .active{
+	background-color: #fff;
+	width: 8px;
+	height: 8px;
+	margin-top: 2px;
+}
+
+.centered {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	font-size: 48px;
+	font-weight: 800;	
+	color: #000;
+}
+
+.colortext{
+	color: #5bbc2e;
+}
+
+.curot{
+	margin-left: 70px;
+}
+
+.text{
+	font-size: 30px;
+	font-weight: 800;
+	color: #8d8d8d;
+	margin-right: 50px;
+
+}
+
+.melcii{
+	font-size: 15px;
+	color: #767575;
+	font-weight: 400;
+	list-style-type: none;
+	list-style-image: url(../images/arrow.png);
+
+}
+
+.curod{
+	margin-right: 20;
+}
+.glav{
+	font-size: 30px;
+	font-weight: 800;
+	color: #8d8d8d;
+}
+
+.coz{
+	font-size: 12px;
+	color:#4b4b4b,;
+	font-weight: 800;
+}
+.grap{
+	font-size: 12px;
+	font-weight: 800;
+	color: #fff;
+}
+.cvet{
+	background-color:purple ;
+}
+.foot{
+	font-size: 12px;
+	font-weight: 600;
+}
+
+.carousel-indicators [ data-bs-target]{
+
+	border: 4px solid #5bbc2e;
+	
+}
+
+
+.carousel-control-prev-icon{
+	background-image: url(../images/arrow-left.png);
+}
+.arrow{
+	background-image:url(../images/arrow-right.png) ;
+}
+
+
+
+
